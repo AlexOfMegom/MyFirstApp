@@ -1,0 +1,28 @@
+.rowContent{
+    background-color:darkgoldenrod;
+    display: flex;
+    flex-direction: row;
+    padding: 30px;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+}
+
+.titleP{
+    font-size: 18px;
+    color:darkblue;
+}
+.contentMass{
+    
+    padding: 50px;
+    width: 20%;
+    
+}
+.pic{
+    width: 200px;
+    height: 200px;
+}
+.titlePP{
+    font-size: 15px;
+    color:darkmagenta;
+}

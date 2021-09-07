@@ -1,0 +1,11 @@
+.AddTodoForm{
+    
+    display: flex;
+    flex-direction: row ;
+    margin: 24px 15%; 
+    
+}
+
+.btn{
+    margin-left:15px;
+}
